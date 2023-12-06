@@ -10,7 +10,7 @@ My Nickname is ZEROCOKE, Hacker J, z.coke 😄
 
 ## 🛠 Tech Stack
 - Stack: Python, C lang, Java, Assembly
-- Others: Docker, Pwnable
+- Etc.: Docker, Pwnable
 
 ## 🌐 Social Media
 - [Instagram](https://instagram.com/izerocoke.2162)
@@ -18,7 +18,6 @@ My Nickname is ZEROCOKE, Hacker J, z.coke 😄
 - [bento](https://bento.me/zeroday2162)
 
 ## 📧 Contact
-- Email: admin@zerocoke.kr
-
+- Email: me@zerocoke.kr
 
 ![J. Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroday2162&show_icons=true&theme=radical)
