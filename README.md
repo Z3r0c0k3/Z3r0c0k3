@@ -19,5 +19,3 @@ My Nickname is ZEROCOKE, Hacker J, z.coke 😄
 
 ## 📧 Contact
 - Email: me@zerocoke.kr
-
-![J. Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroday2162&show_icons=true&theme=radical)
