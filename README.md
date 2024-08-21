@@ -9,7 +9,7 @@ Interested in InfoSec, Offensive Security. 👯
 My Nickname is ZEROCOKE, Hacker J, z.coke 😄
 
 ## 🛠 Tech Stack
-- Stack: Python, C lang, Java, Assembly
+- Stack: Python, C lang, Next.js, Nest.js, Assembly
 - Etc.: Docker, Pwnable
 
 ## 🌐 Social Media
