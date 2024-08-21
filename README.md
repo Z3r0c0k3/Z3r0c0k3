@@ -15,7 +15,7 @@ My Nickname is ZEROCOKE, Hacker J, z.coke 😄
 ## 🌐 Social Media
 - [Instagram](https://instagram.com/izerocoke.2162)
 - [Twitter](https://twitter.com/ZEROCOKE_2162)
-- [bento](https://bento.me/zeroday2162)
+- [bento](https://zerocoke.kr)
 
 ## 📧 Contact
 - Email: me@zerocoke.kr
