@@ -1,4 +1,4 @@
-# Hello! I'm J. Park. 👋
+# Hello! I'm Yeowoong Park. 👋
 
 Currently, I am High School Student in Korea . 🔭
 
